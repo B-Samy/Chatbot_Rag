@@ -4,3 +4,4 @@ requests
 scikit-learn
 nltk
 faiss-cpu
+pdfplumber
