@@ -5,3 +5,4 @@ scikit-learn
 nltk
 faiss-cpu
 pdfplumber
+google-genai
