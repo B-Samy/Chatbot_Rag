@@ -66,17 +66,17 @@ The system searches the uploaded documents, retrieves the relevant information, 
 
 The chatbot can work with:
 
-* PDF files
-* Markdown (`.md`) files
+- PDF files
+- Markdown (`.md`) files
 
 Markdown files can contain:
 
-* README files
-* Project documentation
-* Technical notes
-* Architecture documents
-* Project descriptions
-* Personal documentation
+- README files
+- Project documentation
+- Technical notes
+- Architecture documents
+- Project descriptions
+- Personal documentation
 
 ---
 
@@ -210,10 +210,10 @@ The LLM uses this context to generate the final response.
 
 The chatbot is instructed to:
 
-* Use the retrieved context
-* Avoid inventing information
-* Answer clearly
-* State when the information cannot be found in the provided documents
+- Use the retrieved context
+- Avoid inventing information
+- Answer clearly
+- State when the information cannot be found in the provided documents
 
 ---
 
@@ -388,12 +388,12 @@ summaries, and key points.
 
 The final application provides a simple chat interface where users can:
 
-* Upload PDF files
-* Upload Markdown files
-* Process documents
-* Ask questions
-* Receive AI-generated answers
-* Continue the conversation
+- Upload PDF files
+- Upload Markdown files
+- Process documents
+- Ask questions
+- Receive AI-generated answers
+- Continue the conversation
 
 Example:
 
@@ -430,19 +430,19 @@ This helps reduce hallucinations and makes the chatbot more reliable.
 
 Possible improvements include:
 
-* Conversation memory
-* Multiple-document source tracking
-* Source citations
-* Streaming responses
-* Chat history
-* Document management
-* Hybrid search
-* Better chunking strategies
-* Reranking retrieved chunks
-* Support for DOCX and TXT
-* Image/document understanding
-* Voice input and output
-* User authentication
+- Conversation memory
+- Multiple-document source tracking
+- Source citations
+- Streaming responses
+- Chat history
+- Document management
+- Hybrid search
+- Better chunking strategies
+- Reranking retrieved chunks
+- Support for DOCX and TXT
+- Image/document understanding
+- Voice input and output
+- User authentication
 
 ---
 
@@ -450,18 +450,18 @@ Possible improvements include:
 
 This project demonstrates practical experience with:
 
-* NLP
-* Text preprocessing
-* Sentence tokenization
-* Text chunking
-* Semantic embeddings
-* Vector databases
-* FAISS similarity search
-* Retrieval-Augmented Generation
-* LLM APIs
-* Prompt engineering
-* Document question answering
-* Streamlit application development
+- NLP
+- Text preprocessing
+- Sentence tokenization
+- Text chunking
+- Semantic embeddings
+- Vector databases
+- FAISS similarity search
+- Retrieval-Augmented Generation
+- LLM APIs
+- Prompt engineering
+- Document question answering
+- Streamlit application development
 
 ---
 

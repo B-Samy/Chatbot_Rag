@@ -10,6 +10,11 @@ import streamlit as st
 from google import genai
 from nltk import sent_tokenize
 
+import nltk
+
+nltk.download("punkt_tab", quiet=True)
+nltk.download("punkt", quiet=True)
+
 
 st.set_page_config(
     page_title="ASK LAT-US",
